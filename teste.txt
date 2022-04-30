@@ -1,0 +1,1 @@
+Git status não esta funcionando porém vou resolver esse problema agora
